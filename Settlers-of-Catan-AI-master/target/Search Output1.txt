@@ -1,0 +1,6209 @@
+win: 1
+Lose: 1
+
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+Cities Built: 1.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Depth: 99.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Final Board Value Chosen: 460.61111111111114
+
+Search #13
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+Search #14
+Number of Nodes Searched: 30.0
+Search Time: 153
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+Search #15
+Number of Nodes Searched: 30.0
+Search Time: 304
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+Search #17
+Number of Nodes Searched: 206.0
+Search Time: 1122
+Average Branching Factor: 1.0
+Depth: 109.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 692.25
+
+Search #18
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 912.2222222222222
+
+Search #19
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 694.3055555555555
+
+Search #22
+Number of Nodes Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+Search #24
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #25
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+
+Search #28
+Number of Nodes Searched: 48.0
+Search Time: 248
+Average Branching Factor: 1.0
+Depth: 33.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Final Board Value Chosen: 926.2777777777778
+
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+Average Branching Factor: 11.0
+Depth: 351.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Final Board Value Chosen: 1154.7222222222224
+
+Search #30
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+Average Branching Factor: 1.0
+Depth: 25.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.756944444444
+Final Board Value Chosen: 685.0555555555555
+
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+Search #33
+Number of Nodes Searched: 131.0
+Search Time: 1393
+Average Branching Factor: 5.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+Search #34
+Number of Nodes Searched: 30.0
+Search Time: 211
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+Cities Built: 1.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+Cities Built: 1.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Depth: 99.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Final Board Value Chosen: 460.61111111111114
+
+Search #13
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+Search #14
+Number of Nodes Searched: 30.0
+Search Time: 153
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+Search #15
+Number of Nodes Searched: 30.0
+Search Time: 304
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+Search #17
+Number of Nodes Searched: 206.0
+Search Time: 1122
+Average Branching Factor: 1.0
+Depth: 109.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 692.25
+
+Search #18
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 912.2222222222222
+
+Search #19
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 694.3055555555555
+
+Search #22
+Number of Nodes Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+Search #24
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #25
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+
+Search #28
+Number of Nodes Searched: 48.0
+Search Time: 248
+Average Branching Factor: 1.0
+Depth: 33.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Final Board Value Chosen: 926.2777777777778
+
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+Average Branching Factor: 11.0
+Depth: 351.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Final Board Value Chosen: 1154.7222222222224
+
+Search #30
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+Average Branching Factor: 1.0
+Depth: 25.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.756944444444
+Final Board Value Chosen: 685.0555555555555
+
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+Search #33
+Number of Nodes Searched: 131.0
+Search Time: 1393
+Average Branching Factor: 5.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+Search #34
+Number of Nodes Searched: 30.0
+Search Time: 211
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Depth: 99.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Final Board Value Chosen: 460.61111111111114
+
+Search #13
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+Search #14
+Number of Nodes Searched: 30.0
+Search Time: 153
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+Search #15
+Number of Nodes Searched: 30.0
+Search Time: 304
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+Search #17
+Number of Nodes Searched: 206.0
+Search Time: 1122
+Average Branching Factor: 1.0
+Depth: 109.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 692.25
+
+Search #18
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 912.2222222222222
+
+Search #19
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 694.3055555555555
+
+Search #22
+Number of Nodes Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+Search #24
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #25
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+
+Search #28
+Number of Nodes Searched: 48.0
+Search Time: 248
+Average Branching Factor: 1.0
+Depth: 33.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Final Board Value Chosen: 926.2777777777778
+
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+Average Branching Factor: 11.0
+Depth: 351.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Final Board Value Chosen: 1154.7222222222224
+
+Search #30
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+Average Branching Factor: 1.0
+Depth: 25.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.756944444444
+Final Board Value Chosen: 685.0555555555555
+
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+Search #33
+Number of Nodes Searched: 131.0
+Search Time: 1393
+Average Branching Factor: 5.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+Search #34
+Number of Nodes Searched: 30.0
+Search Time: 211
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+Cities Built: 1.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Search Results:
+ue (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+
+mber of Nodes Searched: 230.0
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+alue (through Evaluation function): 558.9911616161628
+Max Depth: 92.0
+ Chosen: 681.0555555555554
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+: 63.0
+
+Cities Built: 1.0
+Max Depth: 92.0
+ Factor: 1.0
+Depth: 43.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Roads Built: 28.0
+hosen: 37735.64444444445
+Development Cards Built: 1.0
+valuation function): 559.9186507936507
+Developmet Cards Used: 0.0
+7.61111111111114
+Trades Made: 0.0
+
+
+velopment Cards Built: 1.0
+Individual Searches: 
+0.0
+0.0
+
+ades Made: 0.0
+
+Search #0
+nching Factor: 6.0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+aluation function): 621.9324494949516
+Depth: 15.0
+alue Chosen: 680.3888888888889
+
+arch Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+es Searched: 2937.0
+Search Time: 17004
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Average Branching Factor: 8.0
+Max Depth: 2.0
+Depth: 361.0
+Average Board Value (through Evaluation function): 441.1
+Max Depth: 2.0
+Final Board Value Chosen: 671.1111111111111
+Average Board Value (through Evaluation function): 626.0042458931446
+Search #2
+Final Board Value Chosen: 910.1388888888888
+
+mber of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+
+Search Time: 5497
+Depth: 19.0
+Average Branching Factor: 9.0
+Max Depth: 2.0
+Depth: 99.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Depth: 99.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Final Board Value Chosen: 460.61111111111114
+
+Search #13
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+Search #14
+Number of Nodes Searched: 30.0
+Search Time: 153
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+Search #15
+Number of Nodes Searched: 30.0
+Search Time: 304
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+Search #17
+Number of Nodes Searched: 206.0
+Search Time: 1122
+Average Branching Factor: 1.0
+Depth: 109.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 692.25
+
+Search #18
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 912.2222222222222
+
+Search #19
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 694.3055555555555
+
+Search #22
+Number of Nodes Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+Search #24
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #25
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+
+Search #28
+Number of Nodes Searched: 48.0
+Search Time: 248
+Average Branching Factor: 1.0
+Depth: 33.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Final Board Value Chosen: 926.2777777777778
+
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+Average Branching Factor: 11.0
+Depth: 351.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Final Board Value Chosen: 1154.7222222222224
+
+Search #30
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Max Depth: 2.0
+lue (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+erage Board Value (through Evaluation function): 681.4759571853677
+Search #31
+Value Chosen: 460.61111111111114
+
+Search #13
+des Searched: 36.0
+Search Time: 139
+Number of Nodes Searched: 30.0
+Average Branching Factor: 1.0
+Search Time: 125
+Depth: 25.0
+Average Branching Factor: 1.0
+Max Depth: 2.0
+Depth: 21.0
+Max Depth: 2.0
+lue (through Evaluation function): 973.756944444444
+Average Board Value (through Evaluation function): 682.6805555555555
+
+Search #32
+Value Chosen: 685.3888888888889
+
+Search #14
+des Searched: 93.0
+Search Time: 532
+Number of Nodes Searched: 30.0
+Search Time: 153
+Factor: 1.0
+Average Branching Factor: 1.0
+Depth: 21.0
+0
+Max Depth: 2.0
+lue (through Evaluation function): 975.8671594982086
+Average Board Value (through Evaluation function): 683.5805555555555
+
+Search #33
+Value Chosen: 914.1388888888888
+
+Number of Nodes Searched: 131.0
+Search Time: 1393
+rched: 30.0
+Search Time: 304
+Average Branching Factor: 5.0
+Average Branching Factor: 1.0
+Depth: 23.0
+Depth: 21.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 683.0555555555555
+
+nal Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 1156.7222222222224
+
+nal Board Value Chosen: 451.83333333333337
+Search #35
+Search #17
+Number of Nodes Searched: 96.0
+Number of Nodes Searched: 206.0
+Search Time: 953
+Search Time: 1122
+Average Branching Factor: 5.0
+Average Branching Factor: 1.0
+Depth: 17.0
+Depth: 109.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 1156.7222222222224
+
+nal Board Value Chosen: 692.25
+Search #36
+Search #18
+Number of Nodes Searched: 35.0
+Number of Nodes Searched: 57.0
+Search Time: 190
+Search Time: 227
+Average Branching Factor: 1.0
+Average Branching Factor: 1.0
+Depth: 22.0
+Depth: 39.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 1132.5277777777778
+
+nal Board Value Chosen: 912.2222222222222
+Search #37
+Search #19
+Number of Nodes Searched: 1928.0
+Number of Nodes Searched: 391.0
+Search Time: 19565
+Search Time: 2596
+Average Branching Factor: 16.0
+Average Branching Factor: 1.0
+Depth: 117.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+
+Final Board Value Chosen: 926.1388888888889
+
+nal Board Value Chosen: 692.2222222222223
+Search #38
+Search #20
+Number of Nodes Searched: 1746.0
+Number of Nodes Searched: 51.0
+Search Time: 13017
+Search Time: 210
+Average Branching Factor: 1.0
+Average Branching Factor: 1.0
+Depth: 907.0
+Depth: 35.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 1385.0277777777778
+
+nal Board Value Chosen: 910.3611111111111
+Search #39
+Search #21
+Number of Nodes Searched: 191.0
+Number of Nodes Searched: 198.0
+Search Time: 1597
+Search Time: 1493
+Average Branching Factor: 1.0
+Average Branching Factor: 1.0
+Depth: 103.0
+Depth: 106.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 1384.9444444444446
+
+nal Board Value Chosen: 694.3055555555555
+Search #40
+Search #22
+Number of Nodes Searched: 39.0
+Number of Nodes Searched: 39.0
+Search Time: 436
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+e (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+erage Branching Factor: 1.0
+Search #1
+
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+erage Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Searched: 33.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #2
+
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 686.3888888888889
+
+nal Board Value Chosen: 436.83333333333337
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+arched: 27.0
+Average Branching Factor: 1.0
+Depth: 22.0
+hing Factor: 1.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 916.1111111111111
+
+nal Board Value Chosen: 438.1388888888889
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+arched: 30.0
+Average Branching Factor: 1.0
+Depth: 35.0
+hing Factor: 1.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Depth: 99.0
+Final Board Value Chosen: 681.0555555555555
+
+x Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Search #28
+Number of Nodes Searched: 48.0
+111111111114
+
+Search #13
+ 248
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Max Depth: 2.0
+Final Board Value Chosen: 926.2777777777778
+
+erage Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+Number of Nodes Searched: 3975.0
+Search #14
+Search Time: 33567
+Number of Nodes Searched: 30.0
+Average Branching Factor: 11.0
+Search Time: 153
+Depth: 351.0
+Max Depth: 2.0
+g Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+lue (through Evaluation function): 922.5508938698018
+Average Board Value (through Evaluation function): 683.5805555555555
+
+Search #30
+Value Chosen: 914.1388888888888
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+
+Depth: 17.0
+304
+Max Depth: 2.0
+g Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+lue (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+erage Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+mber of Nodes Searched: 36.0
+Search #16
+ 139
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Average Board Value (through Evaluation function): 973.756944444444
+Max Depth: 2.0
+Final Board Value Chosen: 685.0555555555555
+
+erage Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+Number of Nodes Searched: 93.0
+Search #17
+Search Time: 532
+Number of Nodes Searched: 206.0
+Average Branching Factor: 1.0
+Search Time: 1122
+Depth: 63.0
+Max Depth: 2.0
+g Factor: 1.0
+Depth: 109.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Max Depth: 2.0
+Final Board Value Chosen: 1145.7777777777778
+
+erage Board Value (through Evaluation function): 740.0304705215424
+Search #33
+Value Chosen: 692.25
+
+Search #18
+des Searched: 131.0
+Number of Nodes Searched: 57.0
+Average Branching Factor: 5.0
+Depth: 23.0
+227
+Max Depth: 2.0
+g Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+lue (through Evaluation function): 1030.033320591237
+Average Board Value (through Evaluation function): 741.9974415204678
+
+Search #34
+Value Chosen: 912.2222222222222
+Number of Nodes Searched: 30.0
+Search #19
+Search Time: 211
+Number of Nodes Searched: 391.0
+Average Branching Factor: 1.0
+Search Time: 2596
+Depth: 21.0
+Average Branching Factor: 1.0
+Depth: 207.0
+
+Average Board Value (through Evaluation function): 1090.2400000000002
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 1156.7222222222224
+
+nal Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Depth: 27.0
+Max Depth: 2.0
+e Chosen: 1152.7777777777778
+
+Search #41
+d Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+arch Time: 212
+Search #26
+ching Factor: 3.0
+Number of Nodes Searched: 35.0
+Max Depth: 2.0
+Search Time: 453
+Average Branching Factor: 1.0
+aluation function): 1333.9212301587302
+Depth: 22.0
+alue Chosen: 926.1555555555556
+
+Search #42
+.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Search Time: 1306
+Final Board Value Chosen: 916.1111111111111
+
+erage Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Searched: 51.0
+Search Time: 240
+Average Board Value (through Evaluation function): 1335.761973180066
+Average Branching Factor: 1.0
+Depth: 35.0
+alue Chosen: 1152.5277777777778
+Max Depth: 2.0
+Search #43
+Average Board Value (through Evaluation function): 752.9165032679738
+Number of Nodes Searched: 39.0
+Final Board Value Chosen: 681.0555555555555
+
+arch Time: 503
+Search #28
+ching Factor: 1.0
+Number of Nodes Searched: 48.0
+Max Depth: 2.0
+Search Time: 248
+Average Board Value (through Evaluation function): 1397.1992521367533
+Average Branching Factor: 1.0
+Depth: 33.0
+alue Chosen: 1384.2777777777778
+
+Search #44
+.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Search Time: 1719
+Final Board Value Chosen: 926.2777777777778
+
+erage Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Searched: 3975.0
+Search Time: 33567
+Average Board Value (through Evaluation function): 1396.6417100694355
+Average Branching Factor: 11.0
+Depth: 351.0
+lue Chosen: 1152.5277777777778
+
+Search #45
+.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Search Time: 20751
+Final Board Value Chosen: 1154.7222222222224
+
+erage Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Searched: 24.0
+Search Time: 100
+Average Board Value (through Evaluation function): 1396.6865761001968
+Average Branching Factor: 1.0
+Depth: 17.0
+alue Chosen: 925.2388888888889
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+Average Branching Factor: 1.0
+Depth: 25.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.756944444444
+Final Board Value Chosen: 685.0555555555555
+
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+Search #33
+Number of Nodes Searched: 131.0
+Search Time: 1393
+Average Branching Factor: 5.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+Search #34
+Number of Nodes Searched: 30.0
+Search Time: 211
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+Cities Built: 1.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+
+arch Time: 180
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Max Depth: 2.0
+Search Time: 133168
+Average Board Value (through Evaluation function): 496.5124999999998
+Average Branching Factor: 121.0
+Final Board Value Chosen: 442.83333333333337
+
+pth: 3686.0
+Search #5
+92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Search Time: 1059
+Final Board Value Chosen: 37735.64444444445
+Average Branching Factor: 1.0
+Settlements Built: 8.0
+Depth: 100.0
+Cities Built: 1.0
+Max Depth: 2.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+valuation function): 498.4304775280918
+Developmet Cards Used: 0.0
+3.3055555555556
+
+Search #6
+: 0.0
+
+Individual Searches: 
+d: 27.0
+
+arch Time: 80
+Search #0
+nching Factor: 1.0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Board Value (through Evaluation function): 499.2847222222221
+Depth: 15.0
+Max Depth: 2.0
+e Chosen: 676.1111111111111
+
+Search #7
+rd Value (through Evaluation function): 434.25595238095235
+Number of Nodes Searched: 93.0
+777777777777
+
+Search #1
+: 654
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+ Value (through Evaluation function): 503.994937275985
+Max Depth: 2.0
+e Chosen: 676.3888888888889
+
+Search #8
+rd Value (through Evaluation function): 441.1
+Number of Nodes Searched: 230.0
+1111111111
+
+Search Time: 1112
+Search #2
+Average Branching Factor: 1.0
+Number of Nodes Searched: 27.0
+Depth: 121.0
+Search Time: 111
+Max Depth: 2.0
+Average Branching Factor: 1.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Depth: 19.0
+Final Board Value Chosen: 681.0555555555554
+
+x Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+es Searched: 27.0
+Max Depth: 2.0
+
+Average Branching Factor: 1.0
+Depth: 19.0
+ Value (through Evaluation function): 559.9186507936507
+Max Depth: 2.0
+e Chosen: 447.61111111111114
+
+Search #10
+d Value (through Evaluation function): 495.5763888888889
+Number of Nodes Searched: 130.0
+8888888889
+
+Search #4
+: 1379
+Number of Nodes Searched: 30.0
+Depth: 21.0
+Max Depth: 2.0
+
+Average Branching Factor: 1.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Depth: 21.0
+Final Board Value Chosen: 680.3888888888889
+
+x Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Number of Nodes Searched: 2937.0
+Final Board Value Chosen: 442.83333333333337
+
+arch Time: 17004
+Search #5
+nching Factor: 8.0
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Board Value (through Evaluation function): 626.0042458931446
+Depth: 100.0
+Max Depth: 2.0
+e Chosen: 910.1388888888888
+
+Search #12
+d Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+Search Time: 5497
+Search #6
+Average Branching Factor: 9.0
+Number of Nodes Searched: 27.0
+Depth: 99.0
+Search Time: 80
+Max Depth: 2.0
+Average Branching Factor: 1.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Depth: 19.0
+Final Board Value Chosen: 460.61111111111114
+
+x Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Number of Nodes Searched: 30.0
+Final Board Value Chosen: 676.1111111111111
+
+arch Time: 125
+Search #7
+nching Factor: 1.0
+Number of Nodes Searched: 93.0
+Max Depth: 2.0
+Search Time: 654
+Average Board Value (through Evaluation function): 682.6805555555555
+Average Branching Factor: 1.0
+Depth: 63.0
+alue Chosen: 685.3888888888889
+
+Search #14
+.0
+Average Board Value (through Evaluation function): 503.994937275985
+Search Time: 153
+Final Board Value Chosen: 676.3888888888889
+
+erage Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+aluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+x Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Number of Nodes Searched: 30.0
+Final Board Value Chosen: 681.0555555555554
+
+arch Time: 304
+Search #9
+nching Factor: 1.0
+Number of Nodes Searched: 63.0
+Max Depth: 2.0
+Search Time: 326
+Average Board Value (through Evaluation function): 683.1541666666665
+Average Branching Factor: 1.0
+Final Board Value Chosen: 692.3888888888889
+
+pth: 43.0
+Search #16
+.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Search Time: 508
+Average Branching Factor: 1.0
+1111111111114
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+erage Branching Factor: 6.0
+Search #17
+
+Number of Nodes Searched: 206.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Average Branching Factor: 1.0
+Depth: 109.0
+lue Chosen: 680.3888888888889
+Max Depth: 2.0
+Search #11
+Average Board Value (through Evaluation function): 740.0304705215424
+Number of Nodes Searched: 2937.0
+Final Board Value Chosen: 692.25
+
+arch Time: 17004
+Search #18
+ching Factor: 8.0
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+aluation function): 626.0042458931446
+Depth: 39.0
+alue Chosen: 910.1388888888888
+
+Max Depth: 2.0
+Search #12
+Average Board Value (through Evaluation function): 741.9974415204678
+Number of Nodes Searched: 957.0
+Final Board Value Chosen: 912.2222222222222
+
+arch Time: 5497
+Search #19
+ching Factor: 9.0
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+aluation function): 681.4759571853677
+Depth: 207.0
+lue Chosen: 460.61111111111114
+
+Search #13
+.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+aluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+x Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Number of Nodes Searched: 30.0
+Final Board Value Chosen: 910.3611111111111
+
+arch Time: 153
+Search #21
+ching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Searched: 198.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+pth: 106.0
+Search #15
+.0
+Number of Nodes Searched: 30.0
+luation function): 738.9986559139818
+Search Time: 304
+Chosen: 694.3055555555555
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+aluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+x Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Number of Nodes Searched: 30.0
+Final Board Value Chosen: 695.3888888888889
+
+arch Time: 508
+Search #23
+ching Factor: 1.0
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Board Value (through Evaluation function): 680.6541666666665
+Depth: 17.0
+Max Depth: 2.0
+e Chosen: 451.83333333333337
+
+Search #17
+d Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+arch Time: 1122
+Search #24
+ching Factor: 1.0
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+aluation function): 740.0304705215424
+Depth: 23.0
+alue Chosen: 692.25
+
+Search #18
+.0
+Number of Nodes Searched: 57.0
+luation function): 737.214015151515
+Search Time: 227
+Chosen: 447.83333333333337
+
+Search #25
+ching Factor: 1.0
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Board Value (through Evaluation function): 741.9974415204678
+Depth: 27.0
+Max Depth: 2.0
+e Chosen: 912.2222222222222
+
+Search #19
+d Value (through Evaluation function): 738.6794871794871
+Number of Nodes Searched: 391.0
+Search Time: 2596
+hosen: 686.3888888888889
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Searched: 35.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+pth: 22.0
+Search #20
+.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Search Time: 210
+Final Board Value Chosen: 916.1111111111111
+
+erage Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+
+Depth: 106.0
+40
+Max Depth: 2.0
+g Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+lue (through Evaluation function): 738.9986559139818
+Average Board Value (through Evaluation function): 752.9165032679738
+
+Search #22
+Value Chosen: 681.0555555555555
+
+Search #28
+des Searched: 39.0
+Number of Nodes Searched: 48.0
+Search Time: 248
+Factor: 1.0
+Average Branching Factor: 1.0
+Depth: 33.0
+0
+Max Depth: 2.0
+lue (through Evaluation function): 739.915064102564
+Average Board Value (through Evaluation function): 808.4434027777775
+
+Search #23
+Value Chosen: 926.2777777777778
+
+Number of Nodes Searched: 24.0
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+ctor: 1.0
+Average Branching Factor: 11.0
+Depth: 351.0
+
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+ion): 922.5508938698018
+Final Board Value Chosen: 1154.7222222222224
+
+arch #24
+Search #30
+des Searched: 33.0
+Number of Nodes Searched: 24.0
+Search Time: 100
+Factor: 1.0
+Average Branching Factor: 1.0
+Depth: 17.0
+0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+on): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+arch #25
+Search #31
+des Searched: 39.0
+Number of Nodes Searched: 36.0
+Average Branching Factor: 1.0
+Depth: 27.0
+139
+Max Depth: 2.0
+g Factor: 1.0
+Depth: 25.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+ion): 973.756944444444
+Final Board Value Chosen: 685.0555555555555
+
+arch #26
+Search #32
+des Searched: 35.0
+Number of Nodes Searched: 93.0
+Search Time: 532
+Factor: 1.0
+Average Branching Factor: 1.0
+Depth: 63.0
+0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+ion): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+arch #27
+Search #33
+des Searched: 51.0
+Number of Nodes Searched: 131.0
+Search Time: 1393
+actor: 1.0
+Average Branching Factor: 5.0
+Depth: 23.0
+0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+ion): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+arch #28
+Search #34
+des Searched: 48.0
+Number of Nodes Searched: 30.0
+Average Branching Factor: 1.0
+Depth: 33.0
+211
+Max Depth: 2.0
+g Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+lue (through Evaluation function): 808.4434027777775
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+
+Search Time: 953
+
+Average Branching Factor: 5.0
+
+Depth: 17.0
+
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+8698018
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 916.3611111111111
+
+nal Board Value Chosen: 1132.5277777777778
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+arched: 1928.0
+Average Branching Factor: 1.0
+Depth: 25.0
+hing Factor: 16.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.756944444444
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 685.0555555555555
+
+nal Board Value Chosen: 926.1388888888889
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+arched: 1746.0
+Average Branching Factor: 1.0
+Depth: 63.0
+hing Factor: 1.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1145.7777777777778
+
+nal Board Value Chosen: 1385.0277777777778
+Search #33
+Number of Nodes Searched: 131.0
+Number of Nodes Searched: 191.0
+Search Time: 1393
+Search Time: 1597
+Average Branching Factor: 5.0
+Average Branching Factor: 1.0
+Depth: 23.0
+Depth: 103.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 683.0555555555555
+
+nal Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+hing Factor: 3.0
+Max Depth: 2.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 1156.7222222222224
+
+nal Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+
+Search Time: 503
+
+Average Branching Factor: 1.0
+
+Depth: 27.0
+
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 926.1388888888889
+
+nal Board Value Chosen: 1384.2777777777778
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+ched: 269.0
+Average Branching Factor: 1.0
+Depth: 907.0
+ing Factor: 1.0
+Max Depth: 2.0
+Max Depth: 2.0
+lue (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+Cities Built: 1.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Depth: 99.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Final Board Value Chosen: 460.61111111111114
+
+Search #13
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+Search #14
+Number of Nodes Searched: 30.0
+Search Time: 153
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+Search #15
+Number of Nodes Searched: 30.0
+Search Time: 304
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+Search #17
+Number of Nodes Searched: 206.0
+Search Time: 1122
+Average Branching Factor: 1.0
+Depth: 109.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 692.25
+
+Search #18
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 912.2222222222222
+
+Search #19
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 694.3055555555555
+
+Search #22
+Number of Nodes Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+Search #24
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #25
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+
+Search #28
+Number of Nodes Searched: 48.0
+Search Time: 248
+Average Branching Factor: 1.0
+Depth: 33.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Final Board Value Chosen: 926.2777777777778
+
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+Average Branching Factor: 11.0
+Depth: 351.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Final Board Value Chosen: 1154.7222222222224
+
+Search #30
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+ion): 1396.6417100694355
+
+nal Board Value Chosen: 1152.5277777777778
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+arched: 1488.0
+Search Time: 20751
+ctor: 1.0
+Average Branching Factor: 12.0
+Depth: 118.0
+
+Average Board Value (through Evaluation function): 973.756944444444
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+Search #33
+Number of Nodes Searched: 131.0
+Search Time: 1393
+Average Branching Factor: 5.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+Search #34
+Number of Nodes Searched: 30.0
+Search Time: 211
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+Cities Built: 1.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Depth: 99.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Final Board Value Chosen: 460.61111111111114
+
+Search #13
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+Search #14
+Number of Nodes Searched: 30.0
+Search Time: 153
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+Search #15
+Number of Nodes Searched: 30.0
+Search Time: 304
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+Search #17
+Number of Nodes Searched: 206.0
+Search Time: 1122
+Average Branching Factor: 1.0
+Depth: 109.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 692.25
+
+Search #18
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 912.2222222222222
+
+Search #19
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 694.3055555555555
+
+Search #22
+Number of Nodes Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+Search #24
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #25
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+
+Search #28
+Number of Nodes Searched: 48.0
+Search Time: 248
+Average Branching Factor: 1.0
+Depth: 33.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Final Board Value Chosen: 926.2777777777778
+
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+Average Branching Factor: 11.0
+Depth: 351.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Final Board Value Chosen: 1154.7222222222224
+
+Search #30
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+Average Branching Factor: 1.0
+Depth: 25.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.756944444444
+Final Board Value Chosen: 685.0555555555555
+
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+Search #33
+Number of Nodes Searched: 131.0
+Search Time: 1393
+Average Branching Factor: 5.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+Search #34
+Number of Nodes Searched: 30.0
+Search Time: 211
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+Cities Built: 1.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Depth: 99.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Final Board Value Chosen: 460.61111111111114
+
+Search #13
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+Search #14
+Number of Nodes Searched: 30.0
+Search Time: 153
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+Search #15
+Number of Nodes Searched: 30.0
+Search Time: 304
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+Search #17
+Number of Nodes Searched: 206.0
+Search Time: 1122
+Average Branching Factor: 1.0
+Depth: 109.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 692.25
+
+Search #18
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 912.2222222222222
+
+Search #19
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 694.3055555555555
+
+Search #22
+Number of Nodes Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+Search #24
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #25
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+
+Search #28
+Number of Nodes Searched: 48.0
+Search Time: 248
+Average Branching Factor: 1.0
+Depth: 33.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Final Board Value Chosen: 926.2777777777778
+
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+Average Branching Factor: 11.0
+Depth: 351.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Final Board Value Chosen: 1154.7222222222224
+
+Search #30
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+Average Branching Factor: 1.0
+Depth: 25.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.756944444444
+Final Board Value Chosen: 685.0555555555555
+
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+Search #33
+Number of Nodes Searched: 131.0
+Search Time: 1393
+Average Branching Factor: 5.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+Search #34
+Number of Nodes Searched: 30.0
+Search Time: 211
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+Cities Built: 1.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Depth: 99.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Final Board Value Chosen: 460.61111111111114
+
+Search #13
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+Search #14
+Number of Nodes Searched: 30.0
+Search Time: 153
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+Search #15
+Number of Nodes Searched: 30.0
+Search Time: 304
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+Search #17
+Number of Nodes Searched: 206.0
+Search Time: 1122
+Average Branching Factor: 1.0
+Depth: 109.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 692.25
+
+Search #18
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 912.2222222222222
+
+Search #19
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 694.3055555555555
+
+Search #22
+Number of Nodes Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+Search #24
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #25
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+
+Search #28
+Number of Nodes Searched: 48.0
+Search Time: 248
+Average Branching Factor: 1.0
+Depth: 33.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Final Board Value Chosen: 926.2777777777778
+
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+Average Branching Factor: 11.0
+Depth: 351.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Final Board Value Chosen: 1154.7222222222224
+
+Search #30
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+Average Branching Factor: 1.0
+Depth: 25.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.756944444444
+Final Board Value Chosen: 685.0555555555555
+
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+Search #33
+Number of Nodes Searched: 131.0
+Search Time: 1393
+Average Branching Factor: 5.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+Search #34
+Number of Nodes Searched: 30.0
+Search Time: 211
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+Cities Built: 1.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Depth: 99.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Final Board Value Chosen: 460.61111111111114
+
+Search #13
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+Search #14
+Number of Nodes Searched: 30.0
+Search Time: 153
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+Search #15
+Number of Nodes Searched: 30.0
+Search Time: 304
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+Search #17
+Number of Nodes Searched: 206.0
+Search Time: 1122
+Average Branching Factor: 1.0
+Depth: 109.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 692.25
+
+Search #18
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 912.2222222222222
+
+Search #19
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 694.3055555555555
+
+Search #22
+Number of Nodes Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+Search #24
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #25
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+
+Search #28
+Number of Nodes Searched: 48.0
+Search Time: 248
+Average Branching Factor: 1.0
+Depth: 33.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Final Board Value Chosen: 926.2777777777778
+
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+Average Branching Factor: 11.0
+Depth: 351.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 1154.7222222222224
+
+ttlements Built: 8.0
+Search #30
+: 1.0
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+Average Branching Factor: 1.0
+Depth: 25.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.756944444444
+Final Board Value Chosen: 685.0555555555555
+
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+Search #33
+Number of Nodes Searched: 131.0
+Search Time: 1393
+Average Branching Factor: 5.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+Search #34
+Number of Nodes Searched: 30.0
+Search Time: 211
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Depth: 99.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Final Board Value Chosen: 460.61111111111114
+
+Search #13
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+Search #14
+Number of Nodes Searched: 30.0
+Search Time: 153
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+Search #15
+Number of Nodes Searched: 30.0
+Search Time: 304
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+Search #17
+Number of Nodes Searched: 206.0
+Search Time: 1122
+Average Branching Factor: 1.0
+Depth: 109.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 692.25
+
+Search #18
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 912.2222222222222
+
+Search #19
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 694.3055555555555
+
+Search #22
+Number of Nodes Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+Search #24
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #25
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+
+Search #28
+Number of Nodes Searched: 48.0
+Search Time: 248
+Average Branching Factor: 1.0
+Depth: 33.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Final Board Value Chosen: 926.2777777777778
+
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+Average Branching Factor: 11.0
+Depth: 351.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Final Board Value Chosen: 1154.7222222222224
+
+Search #30
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+Average Branching Factor: 1.0
+Depth: 25.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.756944444444
+Final Board Value Chosen: 685.0555555555555
+
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+Search #33
+Number of Nodes Searched: 131.0
+Search Time: 1393
+Average Branching Factor: 5.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+Search #34
+Number of Nodes Searched: 30.0
+Search Time: 211
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
+Search Results:
+
+Summary (Average per search):
+Number of Nodes Searched: 16349.0
+Search Time: 133168
+Average Branching Factor: 121.0
+Depth: 3686.0
+Max Depth: 92.0
+Average Board Value (through Evaluation function): 38562.32318216752
+Final Board Value Chosen: 37735.64444444445
+Settlements Built: 8.0
+Cities Built: 1.0
+Roads Built: 28.0
+Development Cards Built: 1.0
+Developmet Cards Used: 0.0
+Trades Made: 0.0
+
+Individual Searches: 
+
+Search #0
+Number of Nodes Searched: 21.0
+Search Time: 322
+Average Branching Factor: 1.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 434.25595238095235
+Final Board Value Chosen: 437.02777777777777
+
+Search #1
+Number of Nodes Searched: 30.0
+Search Time: 301
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 441.1
+Final Board Value Chosen: 671.1111111111111
+
+Search #2
+Number of Nodes Searched: 27.0
+Search Time: 111
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 494.2986111111111
+Final Board Value Chosen: 436.83333333333337
+
+Search #3
+Number of Nodes Searched: 27.0
+Search Time: 205
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 495.5763888888889
+Final Board Value Chosen: 438.1388888888889
+
+Search #4
+Number of Nodes Searched: 30.0
+Search Time: 180
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 496.5124999999998
+Final Board Value Chosen: 442.83333333333337
+
+Search #5
+Number of Nodes Searched: 188.0
+Search Time: 1059
+Average Branching Factor: 1.0
+Depth: 100.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 498.4304775280918
+Final Board Value Chosen: 443.3055555555556
+
+Search #6
+Number of Nodes Searched: 27.0
+Search Time: 80
+Average Branching Factor: 1.0
+Depth: 19.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 499.2847222222221
+Final Board Value Chosen: 676.1111111111111
+
+Search #7
+Number of Nodes Searched: 93.0
+Search Time: 654
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 503.994937275985
+Final Board Value Chosen: 676.3888888888889
+
+Search #8
+Number of Nodes Searched: 230.0
+Search Time: 1112
+Average Branching Factor: 1.0
+Depth: 121.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 558.9911616161628
+Final Board Value Chosen: 681.0555555555554
+
+Search #9
+Number of Nodes Searched: 63.0
+Search Time: 326
+Average Branching Factor: 1.0
+Depth: 43.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 559.9186507936507
+Final Board Value Chosen: 447.61111111111114
+
+Search #10
+Number of Nodes Searched: 130.0
+Search Time: 1379
+Average Branching Factor: 6.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 621.9324494949516
+Final Board Value Chosen: 680.3888888888889
+
+Search #11
+Number of Nodes Searched: 2937.0
+Search Time: 17004
+Average Branching Factor: 8.0
+Depth: 361.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 626.0042458931446
+Final Board Value Chosen: 910.1388888888888
+
+Search #12
+Number of Nodes Searched: 957.0
+Search Time: 5497
+Average Branching Factor: 9.0
+Depth: 99.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 681.4759571853677
+Final Board Value Chosen: 460.61111111111114
+
+Search #13
+Number of Nodes Searched: 30.0
+Search Time: 125
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 682.6805555555555
+Final Board Value Chosen: 685.3888888888889
+
+Search #14
+Number of Nodes Searched: 30.0
+Search Time: 153
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.5805555555555
+Final Board Value Chosen: 914.1388888888888
+
+Search #15
+Number of Nodes Searched: 30.0
+Search Time: 304
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 683.1541666666665
+Final Board Value Chosen: 692.3888888888889
+
+Search #16
+Number of Nodes Searched: 30.0
+Search Time: 508
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 680.6541666666665
+Final Board Value Chosen: 451.83333333333337
+
+Search #17
+Number of Nodes Searched: 206.0
+Search Time: 1122
+Average Branching Factor: 1.0
+Depth: 109.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.0304705215424
+Final Board Value Chosen: 692.25
+
+Search #18
+Number of Nodes Searched: 57.0
+Search Time: 227
+Average Branching Factor: 1.0
+Depth: 39.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.9974415204678
+Final Board Value Chosen: 912.2222222222222
+
+Search #19
+Number of Nodes Searched: 391.0
+Search Time: 2596
+Average Branching Factor: 1.0
+Depth: 207.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 741.7016891891901
+Final Board Value Chosen: 692.2222222222223
+
+Search #20
+Number of Nodes Searched: 51.0
+Search Time: 210
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.286764705882
+Final Board Value Chosen: 910.3611111111111
+
+Search #21
+Number of Nodes Searched: 198.0
+Search Time: 1493
+Average Branching Factor: 1.0
+Depth: 106.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.9986559139818
+Final Board Value Chosen: 694.3055555555555
+
+Search #22
+Number of Nodes Searched: 39.0
+Search Time: 177
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.915064102564
+Final Board Value Chosen: 695.3888888888889
+
+Search #23
+Number of Nodes Searched: 24.0
+Search Time: 201
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 740.8333333333333
+Final Board Value Chosen: 915.3611111111111
+
+Search #24
+Number of Nodes Searched: 33.0
+Search Time: 262
+Average Branching Factor: 1.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 737.214015151515
+Final Board Value Chosen: 447.83333333333337
+
+Search #25
+Number of Nodes Searched: 39.0
+Search Time: 428
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 738.6794871794871
+Final Board Value Chosen: 686.3888888888889
+
+Search #26
+Number of Nodes Searched: 35.0
+Search Time: 453
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 739.2029761904762
+Final Board Value Chosen: 916.1111111111111
+
+Search #27
+Number of Nodes Searched: 51.0
+Search Time: 240
+Average Branching Factor: 1.0
+Depth: 35.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 752.9165032679738
+Final Board Value Chosen: 681.0555555555555
+
+Search #28
+Number of Nodes Searched: 48.0
+Search Time: 248
+Average Branching Factor: 1.0
+Depth: 33.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 808.4434027777775
+Final Board Value Chosen: 926.2777777777778
+
+Search #29
+Number of Nodes Searched: 3975.0
+Search Time: 33567
+Average Branching Factor: 11.0
+Depth: 351.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 922.5508938698018
+Final Board Value Chosen: 1154.7222222222224
+
+Search #30
+Number of Nodes Searched: 24.0
+Search Time: 100
+Average Branching Factor: 1.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.3506944444443
+Final Board Value Chosen: 916.3611111111111
+
+Search #31
+Number of Nodes Searched: 36.0
+Search Time: 139
+Average Branching Factor: 1.0
+Depth: 25.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 973.756944444444
+Final Board Value Chosen: 685.0555555555555
+
+Search #32
+Number of Nodes Searched: 93.0
+Search Time: 532
+Average Branching Factor: 1.0
+Depth: 63.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 975.8671594982086
+Final Board Value Chosen: 1145.7777777777778
+
+Search #33
+Number of Nodes Searched: 131.0
+Search Time: 1393
+Average Branching Factor: 5.0
+Depth: 23.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1030.033320591237
+Final Board Value Chosen: 683.0555555555555
+
+Search #34
+Number of Nodes Searched: 30.0
+Search Time: 211
+Average Branching Factor: 1.0
+Depth: 21.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1090.2400000000002
+Final Board Value Chosen: 1156.7222222222224
+
+Search #35
+Number of Nodes Searched: 96.0
+Search Time: 953
+Average Branching Factor: 5.0
+Depth: 17.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.675
+Final Board Value Chosen: 1156.7222222222224
+
+Search #36
+Number of Nodes Searched: 35.0
+Search Time: 190
+Average Branching Factor: 1.0
+Depth: 22.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1085.7357142857143
+Final Board Value Chosen: 1132.5277777777778
+
+Search #37
+Number of Nodes Searched: 1928.0
+Search Time: 19565
+Average Branching Factor: 16.0
+Depth: 117.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1104.9146937086045
+Final Board Value Chosen: 926.1388888888889
+
+Search #38
+Number of Nodes Searched: 1746.0
+Search Time: 13017
+Average Branching Factor: 1.0
+Depth: 907.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1190.8119179894745
+Final Board Value Chosen: 1385.0277777777778
+
+Search #39
+Number of Nodes Searched: 191.0
+Search Time: 1597
+Average Branching Factor: 1.0
+Depth: 103.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.4163545568015
+Final Board Value Chosen: 1384.9444444444446
+
+Search #40
+Number of Nodes Searched: 39.0
+Search Time: 436
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.6944444444448
+Final Board Value Chosen: 1152.7777777777778
+
+Search #41
+Number of Nodes Searched: 18.0
+Search Time: 212
+Average Branching Factor: 3.0
+Depth: 5.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1333.9212301587302
+Final Board Value Chosen: 926.1555555555556
+
+Search #42
+Number of Nodes Searched: 159.0
+Search Time: 1306
+Average Branching Factor: 10.0
+Depth: 15.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1335.761973180066
+Final Board Value Chosen: 1152.5277777777778
+
+Search #43
+Number of Nodes Searched: 39.0
+Search Time: 503
+Average Branching Factor: 1.0
+Depth: 27.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1397.1992521367533
+Final Board Value Chosen: 1384.2777777777778
+
+Search #44
+Number of Nodes Searched: 269.0
+Search Time: 1719
+Average Branching Factor: 1.0
+Depth: 142.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6417100694355
+Final Board Value Chosen: 1152.5277777777778
+
+Search #45
+Number of Nodes Searched: 1488.0
+Search Time: 20751
+Average Branching Factor: 12.0
+Depth: 118.0
+Max Depth: 2.0
+Average Board Value (through Evaluation function): 1396.6865761001968
+Final Board Value Chosen: 925.2388888888889
+
