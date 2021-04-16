@@ -61,10 +61,26 @@ import java.util.Properties;
  * CREATE TABLE robotparams (robotname VARCHAR(20), maxgamelength INT, maxeta INT, etabonusfactor FLOAT, adversarialfactor FLOAT, leaderadversarialfactor FLOAT, devcardmultiplier FLOAT, threatmultiplier FLOAT, strategytype INT, starttime TIMESTAMP, endtime TIMESTAMP, gameswon INT, gameslost INT, tradeFlag BOOL);
  *</code>
  */
-public class SOCDBHelper
+private class SOCDBHelper
 {
     // If a new property is added, please add a PROP_JSETTLERS_DB_ constant
     // and also add it to SOCServer.PROPS_LIST.
+	
+	// private constructor
+	private SOCDBHelper() {
+		
+	}
+	
+	// single instance of SOCDBHelper
+	private static SOCDBHelper singleInstance = new SOCBDHelper();
+	
+	// public method to get instance
+	public static SOCDBHelper getInstance() {
+		if (singleInstance==null) {
+			singleInstance = new SOCBDHelper();
+		}
+		return singleInstance;
+	}
 
 	/** Property <tt>jsettlers.db.user</tt> to specify the server's SQL database username.
      * @since 1.1.09
