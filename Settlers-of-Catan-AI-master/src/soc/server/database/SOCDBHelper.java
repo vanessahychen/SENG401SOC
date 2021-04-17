@@ -61,7 +61,7 @@ import java.util.Properties;
  * CREATE TABLE robotparams (robotname VARCHAR(20), maxgamelength INT, maxeta INT, etabonusfactor FLOAT, adversarialfactor FLOAT, leaderadversarialfactor FLOAT, devcardmultiplier FLOAT, threatmultiplier FLOAT, strategytype INT, starttime TIMESTAMP, endtime TIMESTAMP, gameswon INT, gameslost INT, tradeFlag BOOL);
  *</code>
  */
-private class SOCDBHelper
+public class SOCDBHelper
 {
     // If a new property is added, please add a PROP_JSETTLERS_DB_ constant
     // and also add it to SOCServer.PROPS_LIST.
