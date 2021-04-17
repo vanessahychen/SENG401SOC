@@ -1,6 +1,6 @@
 package soc.game;
 
-public class BuildingsBuilder {
+public class PiecesBuilder {
 	public Pieces prepareStartingBuildings (SOCPlayer pl, SOCBoard board, int r1, int r2, int s1, int s2) {
 		Pieces pieces = new Pieces();
 		pieces.addItem(new Roads(pl, r1, board));

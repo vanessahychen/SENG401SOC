@@ -1284,7 +1284,7 @@ public class SOCPlayer implements SOCDevCardConstants, Serializable, Cloneable
 
     public void startingPieces (int r1, int r2, int s1, int s2) {
     	if (this.pieces.isEmpty()) {
-    		BuildingsBuilder builder = new BuildingsBuilder();
+    		PiecesBuilder builder = new PiecesBuilder();
     		Pieces thePieces = builder.prepareStartingBuildings(this, this.game.getBoard(), r1, r2, s1, s2);
     		this.putPiece(thePieces.getItems().get(0).getPlayingPiece());
     		this.putPiece(thePieces.getItems().get(1).getPlayingPiece());
@@ -1296,7 +1296,7 @@ public class SOCPlayer implements SOCDevCardConstants, Serializable, Cloneable
     
     public void startingPieces2 (int r1, int r2, int s1) {
     	if (this.pieces.isEmpty()) {
-    		BuildingsBuilder builder = new BuildingsBuilder();
+    		PiecesBuilder builder = new PiecesBuilder();
     		Pieces thePieces = builder.prepareStartingBuildings2(this, this.game.getBoard(), r1, r2, s1);
     		this.putPiece(thePieces.getItems().get(0).getPlayingPiece());
     		this.putPiece(thePieces.getItems().get(1).getPlayingPiece());
