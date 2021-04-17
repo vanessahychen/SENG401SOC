@@ -2,8 +2,8 @@ package soc.game;
 
 public class Cities extends Buildings {
 
-	public Cities(int currentCoord) {
-		super(currentCoord);
+	public Cities(SOCPlayer pl, int co, SOCBoard board) {
+		super(2, pl, co, board);
 	}
 
 	@Override
@@ -19,6 +19,11 @@ public class Cities extends Buildings {
 	@Override
 	public Hex hex() {
 		return new Hex(coord);
+	}
+
+	@Override
+	public SOCPlayingPiece getPlayingPiece() {
+		return this;
 	}
 
 }

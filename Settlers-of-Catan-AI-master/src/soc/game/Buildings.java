@@ -1,10 +1,11 @@
 package soc.game;
 
-public abstract class Buildings implements Item {
+public abstract class Buildings extends SOCPlayingPiece implements Item {
 	
 	protected int coord;
 	
-	public Buildings (int currentCoord) {
+	public Buildings (final int ptype, SOCPlayer pl, final int currentCoord, SOCBoard pboard) {
+		super(ptype, pl, currentCoord, pboard);
 		this.coord = currentCoord;
 	}
 	

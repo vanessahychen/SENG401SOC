@@ -459,6 +459,7 @@ public class SOCPlayer implements SOCDevCardConstants, Serializable, Cloneable
         initLegalRoads();
         initLegalAndPotentialSettlements();
         currentOffer = null;
+        startingPieces(0, 1, 2, 3);
     }
 
     /**
@@ -1281,6 +1282,29 @@ public class SOCPlayer implements SOCDevCardConstants, Serializable, Cloneable
         return roadNodeGraph[node1][node2];
     }
 
+    public void startingPieces (int r1, int r2, int s1, int s2) {
+    	if (this.pieces.isEmpty()) {
+    		BuildingsBuilder builder = new BuildingsBuilder();
+    		Pieces thePieces = builder.prepareStartingBuildings(this, this.game.getBoard(), r1, r2, s1, s2);
+    		this.putPiece(thePieces.getItems().get(0).getPlayingPiece());
+    		this.putPiece(thePieces.getItems().get(1).getPlayingPiece());
+    		this.putPiece(thePieces.getItems().get(2).getPlayingPiece());
+    		this.putPiece(thePieces.getItems().get(3).getPlayingPiece());
+    		return;
+    	}
+    }
+    
+    public void startingPieces2 (int r1, int r2, int s1) {
+    	if (this.pieces.isEmpty()) {
+    		BuildingsBuilder builder = new BuildingsBuilder();
+    		Pieces thePieces = builder.prepareStartingBuildings2(this, this.game.getBoard(), r1, r2, s1);
+    		this.putPiece(thePieces.getItems().get(0).getPlayingPiece());
+    		this.putPiece(thePieces.getItems().get(1).getPlayingPiece());
+    		this.putPiece(thePieces.getItems().get(2).getPlayingPiece());
+    		return;
+    	}
+    }
+    
     /**
      * put a piece into play
      * note: placing a city automatically removes the settlement there
@@ -1289,6 +1313,7 @@ public class SOCPlayer implements SOCDevCardConstants, Serializable, Cloneable
      */
     public void putPiece(SOCPlayingPiece piece)
     {
+
         /**
          * only do this stuff if it's our piece
          */
