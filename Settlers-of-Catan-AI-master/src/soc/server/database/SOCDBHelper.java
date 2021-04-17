@@ -72,12 +72,12 @@ public class SOCDBHelper
 	}
 	
 	// single instance of SOCDBHelper
-	private static SOCDBHelper singleInstance = new SOCBDHelper();
+	private static SOCDBHelper singleInstance = new SOCDBHelper();
 	
 	// public method to get instance
 	public static SOCDBHelper getInstance() {
 		if (singleInstance==null) {
-			singleInstance = new SOCBDHelper();
+			singleInstance = new SOCDBHelper();
 		}
 		return singleInstance;
 	}
